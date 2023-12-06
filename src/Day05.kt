@@ -1,5 +1,5 @@
 import java.math.BigInteger
-
+// never finished part 2
 fun main() {
     val testInput = readInput("Day05_test")
 
